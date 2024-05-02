@@ -1,0 +1,37 @@
+/* header {
+  padding: 15px;
+  background-color: #ffffff;
+}
+footer {
+  padding: 15px;
+  background-color: #ffffff;
+} */
+.card {
+  background-color: #ffffff;
+  padding: 15px;
+  margin: 15px;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* body {
+  padding: 0 50rem 0 0;
+} */
+html {
+  background-color: #c4c4c4;
+}
+p.card__title {
+  color: #282828;
+  font-size: 14px;
+}
+p.card__description {
+  color: #282828;
+  font-size: 12px;
+}
+img {
+  width: 288px;
+  height: 182px;
+  margin-bottom: 5px;
+}
